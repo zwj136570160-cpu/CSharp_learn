@@ -1,4 +1,4 @@
-﻿namespace lesson1_练习题
+namespace lesson1_练习题
 {
     internal class Program
     {
