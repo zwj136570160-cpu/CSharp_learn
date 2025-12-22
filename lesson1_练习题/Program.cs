@@ -28,7 +28,7 @@
             Console.WriteLine("您喜欢什么运动");
             Console.ReadLine();
             Console.WriteLine("哈哈，好巧，我也喜欢这个运动");
-=======
+
 
 
 
