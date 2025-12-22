@@ -8,7 +8,11 @@
             
             //请用户输入用户名、年龄、班级
             Console.WriteLine("请输入用户名、年龄、班级");
+
             Console.ReadLine();
+
+            Console.ReadLine();
+
         }
     }
 }
