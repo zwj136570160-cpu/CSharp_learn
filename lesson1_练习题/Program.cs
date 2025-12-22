@@ -1,8 +1,8 @@
-﻿namespace lesson1_练习题
+﻿namespace   名称空间 lesson1_练习题
 {
-    internal class Program
+       内部类程序internal class   类 Program   程序   程序
     {
-        static void Main(string[] args)
+        static   静态 void   无效 Main（string[] args）static void   无效 Main(string[] args)
         {
             Console.WriteLine("lesson1_练习题讲解");
 
@@ -24,13 +24,13 @@
             Console.WriteLine("请输入班级");
             Console.ReadLine();
 
-<<<<<<< HEAD
+
             Console.WriteLine("您喜欢什么运动");
             Console.ReadLine();
             Console.WriteLine("哈哈，好巧，我也喜欢这个运动");
 =======
 
->>>>>>> 4efc43ed7130438edefa18e4dad30037f21d3820
+
 
             //方式1
             Console.WriteLine("**********");
