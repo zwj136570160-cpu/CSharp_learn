@@ -4,5 +4,8 @@
   <Project Path="lesson2_变量/lesson2_变量.csproj" Id="2c42086a-9287-4008-9d6e-51744d700f94" />
   <Project Path="lesson2_练习题/lesson2_练习题.csproj" Id="eef4af07-f8c8-4636-9edb-441e49b508bb" />
   <Project Path="lesson3_变量本质/lesson3_变量本质.csproj" Id="5d58a2e8-8f46-45e4-833e-5c1bb04b789c" />
+  <Project Path="lesson4_变量的命名规范/lesson4_变量的命名规范.csproj" Id="4f068a3b-c5d9-4533-95a1-12b587354c1d" />
+  <Project Path="lesson4_练习题/lesson4_练习题.csproj" Id="e5d0dfed-d8ec-4066-9adb-0687aec1e95c" />
+  <Project Path="lesson5_常量/lesson5_常量.csproj" Id="595be89d-178e-43b6-ba9c-55f99162bfcc" />
   <Project Path="测试项目/测试项目.csproj" />
 </Solution>
