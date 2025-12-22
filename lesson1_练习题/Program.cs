@@ -1,8 +1,8 @@
-﻿namespace lesson1_练习题
+﻿namespace   名称空间 lesson1_练习题
 {
-    internal class Program
+       内部类程序internal class   类 Program   程序   程序
     {
-        static void Main(string[] args)
+        static   静态 void   无效 Main（string[] args）static void   无效 Main(string[] args)
         {
             Console.WriteLine("lesson1_练习题讲解");
 
