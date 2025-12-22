@@ -16,7 +16,7 @@
             string address = "北京市朝阳区幸福大街100号";
             Console.WriteLine("我的名字是：" + name);
             Console.WriteLine("我的年龄是：" + age + "岁");
-            //Console.WriteLine("我的性别是：" + sex);
+            Console.WriteLine("我的性别是：" + sex);
             Console.WriteLine("我的身高是：" + height + "cm");
             Console.WriteLine("我的体重是：" + weight + "kg");
             Console.WriteLine("我的家庭住址是：" + address);
