@@ -9,5 +9,11 @@
   <Project Path="lesson5_常量/lesson5_常量.csproj" Id="595be89d-178e-43b6-ba9c-55f99162bfcc" />
   <Project Path="lesson6_练习题/lesson6_练习题.csproj" Id="b8fbeafb-fbfc-4cde-9cd9-217bdd94e091" />
   <Project Path="lesson6_转义字符/lesson6_转义字符.csproj" Id="2d33bdaf-17e5-4b2f-a112-1d2267f76517" />
+  <Project Path="lesson7_类型转换/lesson7_类型转换（隐式转换）.csproj" Id="a9290eec-de08-4f96-83b7-8675d3b80859" />
+  <Project Path="lesson7_练习题/lesson7_练习题.csproj" Id="e4af0b27-0580-4e58-abb0-4416f572b211" />
+  <Project Path="lesson8_类型转换（显示转换）/lesson8_类型转换（显示转换）.csproj" Id="42420fcc-283f-489e-90c8-ce4dc1ba3987" />
+  <Project Path="lesson8_练习题/lesson8_练习题.csproj" Id="ef90d6b5-2a3c-4ba7-a07b-d5b274c4d775" />
+  <Project Path="lesson9_异常捕获/lesson9_异常捕获.csproj" Id="4c32fde7-a5cc-4235-93ab-dce20c61fc3a" />
+  <Project Path="lesson9_练习题/lesson9_练习题.csproj" Id="dcfe6110-95e0-49e9-95d4-2ee70e66df8a" />
   <Project Path="测试项目/测试项目.csproj" />
 </Solution>
