@@ -1,19 +1,20 @@
 <Solution>
-  <Project Path="lesson1_第一个应用程序/lesson1_第一个应用程序.csproj" Id="2a6fbb79-b529-4c2a-9d0b-553623c8afe8" />
-  <Project Path="lesson1_练习题/lesson1_练习题.csproj" Id="6e0d5923-a10a-4ba1-b0ac-c9169cca0f9a" />
-  <Project Path="lesson2_变量/lesson2_变量.csproj" Id="2c42086a-9287-4008-9d6e-51744d700f94" />
-  <Project Path="lesson2_练习题/lesson2_练习题.csproj" Id="eef4af07-f8c8-4636-9edb-441e49b508bb" />
-  <Project Path="lesson3_变量本质/lesson3_变量本质.csproj" Id="5d58a2e8-8f46-45e4-833e-5c1bb04b789c" />
-  <Project Path="lesson4_变量的命名规范/lesson4_变量的命名规范.csproj" Id="4f068a3b-c5d9-4533-95a1-12b587354c1d" />
-  <Project Path="lesson4_练习题/lesson4_练习题.csproj" Id="e5d0dfed-d8ec-4066-9adb-0687aec1e95c" />
-  <Project Path="lesson5_常量/lesson5_常量.csproj" Id="595be89d-178e-43b6-ba9c-55f99162bfcc" />
-  <Project Path="lesson6_练习题/lesson6_练习题.csproj" Id="b8fbeafb-fbfc-4cde-9cd9-217bdd94e091" />
-  <Project Path="lesson6_转义字符/lesson6_转义字符.csproj" Id="2d33bdaf-17e5-4b2f-a112-1d2267f76517" />
-  <Project Path="lesson7_类型转换/lesson7_类型转换（隐式转换）.csproj" Id="a9290eec-de08-4f96-83b7-8675d3b80859" />
-  <Project Path="lesson7_练习题/lesson7_练习题.csproj" Id="e4af0b27-0580-4e58-abb0-4416f572b211" />
-  <Project Path="lesson8_类型转换（显示转换）/lesson8_类型转换（显示转换）.csproj" Id="42420fcc-283f-489e-90c8-ce4dc1ba3987" />
-  <Project Path="lesson8_练习题/lesson8_练习题.csproj" Id="ef90d6b5-2a3c-4ba7-a07b-d5b274c4d775" />
-  <Project Path="lesson9_异常捕获/lesson9_异常捕获.csproj" Id="4c32fde7-a5cc-4235-93ab-dce20c61fc3a" />
-  <Project Path="lesson9_练习题/lesson9_练习题.csproj" Id="dcfe6110-95e0-49e9-95d4-2ee70e66df8a" />
+  <Project Path="lesson10_算数运算符知识点/lesson10_算数运算符知识点.csproj" Id="8d0ed9cb-0fbc-4bc6-ba84-6f6ce191e54b" />
+  <Project Path="lesson1_第一个应用程序/lesson01_第一个应用程序.csproj" Id="2a6fbb79-b529-4c2a-9d0b-553623c8afe8" />
+  <Project Path="lesson1_练习题/lesson01_练习题.csproj" Id="6e0d5923-a10a-4ba1-b0ac-c9169cca0f9a" />
+  <Project Path="lesson2_变量/lesson02_变量.csproj" Id="2c42086a-9287-4008-9d6e-51744d700f94" />
+  <Project Path="lesson2_练习题/lesson02_练习题.csproj" Id="eef4af07-f8c8-4636-9edb-441e49b508bb" />
+  <Project Path="lesson3_变量本质/lesson03_变量本质.csproj" Id="5d58a2e8-8f46-45e4-833e-5c1bb04b789c" />
+  <Project Path="lesson4_变量的命名规范/lesson04_变量的命名规范.csproj" Id="4f068a3b-c5d9-4533-95a1-12b587354c1d" />
+  <Project Path="lesson4_练习题/lesson04_练习题.csproj" Id="e5d0dfed-d8ec-4066-9adb-0687aec1e95c" />
+  <Project Path="lesson5_常量/lesson05_常量.csproj" Id="595be89d-178e-43b6-ba9c-55f99162bfcc" />
+  <Project Path="lesson6_练习题/lesson06_练习题.csproj" Id="b8fbeafb-fbfc-4cde-9cd9-217bdd94e091" />
+  <Project Path="lesson6_转义字符/lesson06_转义字符.csproj" Id="2d33bdaf-17e5-4b2f-a112-1d2267f76517" />
+  <Project Path="lesson7_类型转换/lesson07_类型转换（隐式转换）.csproj" Id="a9290eec-de08-4f96-83b7-8675d3b80859" />
+  <Project Path="lesson7_练习题/lesson07_练习题.csproj" Id="e4af0b27-0580-4e58-abb0-4416f572b211" />
+  <Project Path="lesson8_类型转换（显示转换）/lesson08_类型转换（显示转换）.csproj" Id="42420fcc-283f-489e-90c8-ce4dc1ba3987" />
+  <Project Path="lesson8_练习题/lesson08_练习题.csproj" Id="ef90d6b5-2a3c-4ba7-a07b-d5b274c4d775" />
+  <Project Path="lesson9_异常捕获/lesson09_异常捕获.csproj" Id="4c32fde7-a5cc-4235-93ab-dce20c61fc3a" />
+  <Project Path="lesson9_练习题/lesson09_练习题.csproj" Id="dcfe6110-95e0-49e9-95d4-2ee70e66df8a" />
   <Project Path="测试项目/测试项目.csproj" />
 </Solution>
