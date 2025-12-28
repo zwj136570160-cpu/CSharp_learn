@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="lesson10_算数运算符知识点/lesson10_算数运算符知识点.csproj" Id="8d0ed9cb-0fbc-4bc6-ba84-6f6ce191e54b" />
+  <Project Path="lesson10_练习题/lesson10_练习题.csproj" Id="04bdda40-f051-456d-aac3-f083c6bd9e6f" />
   <Project Path="lesson1_第一个应用程序/lesson01_第一个应用程序.csproj" Id="2a6fbb79-b529-4c2a-9d0b-553623c8afe8" />
   <Project Path="lesson1_练习题/lesson01_练习题.csproj" Id="6e0d5923-a10a-4ba1-b0ac-c9169cca0f9a" />
   <Project Path="lesson2_变量/lesson02_变量.csproj" Id="2c42086a-9287-4008-9d6e-51744d700f94" />
