@@ -6,6 +6,10 @@
   <Project Path="lesson12_条件运算符/lesson12_条件运算符.csproj" Id="6cf72085-5c9c-4ab7-ab08-4c6720695881" />
   <Project Path="lesson13_逻辑运算符/lesson13_逻辑运算符.csproj" Id="75f1e7fd-d7bb-49de-87f9-bf9192d3da16" />
   <Project Path="lesson14_位运算符/lesson14_位运算符.csproj" Id="baf1ee83-0213-4c39-af55-9b9852f483c5" />
+  <Project Path="lesson15_三目运算符/lesson15_三目运算符.csproj" Id="acd0d42d-7c0b-4010-88a4-924684a7a9a8" />
+  <Project Path="lesson15_练习题/lesson15_练习题.csproj" Id="a47c457c-42ca-4114-8261-ec419e8455bb" />
+  <Project Path="lesson16_条件分支语句_if/lesson16_条件分支语句_if.csproj" Id="e48c513d-a9b8-4c6b-ae19-8ca4fe07516d" />
+  <Project Path="lesson16_练习题/lesson16_练习题.csproj" Id="390d365b-c7ab-4f15-bfe0-6d8fb8182458" />
   <Project Path="lesson1_第一个应用程序/lesson01_第一个应用程序.csproj" Id="2a6fbb79-b529-4c2a-9d0b-553623c8afe8" />
   <Project Path="lesson1_练习题/lesson01_练习题.csproj" Id="6e0d5923-a10a-4ba1-b0ac-c9169cca0f9a" />
   <Project Path="lesson2_变量/lesson02_变量.csproj" Id="2c42086a-9287-4008-9d6e-51744d700f94" />
