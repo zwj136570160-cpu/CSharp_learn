@@ -14,8 +14,12 @@
   <Project Path="lesson17_练习题/lesson17_练习题.csproj" Id="a6d86bc0-dad9-416e-bc31-4e592233b44d" />
   <Project Path="lesson18_循环语句_while/lesson18_循环语句_while.csproj" Id="ec2c072f-2b9d-47f1-8686-a56323f8075a" />
   <Project Path="lesson18_练习题/lesson18_练习题.csproj" Id="686e997c-09cb-4120-ac03-88255c5e5062" />
+  <Project Path="lesson19_循环语句_do while/lesson19_循环语句_do while.csproj" Id="95652e73-8855-40a6-9240-ff97c084fa0f" />
+  <Project Path="lesson19_练习题/lesson19_练习题.csproj" Id="70bf245f-f2ed-46b6-a842-fa35fdc28d03" />
   <Project Path="lesson1_第一个应用程序/lesson01_第一个应用程序.csproj" Id="2a6fbb79-b529-4c2a-9d0b-553623c8afe8" />
   <Project Path="lesson1_练习题/lesson01_练习题.csproj" Id="6e0d5923-a10a-4ba1-b0ac-c9169cca0f9a" />
+  <Project Path="lesson20_循环语法_for/lesson20_循环语法_for.csproj" Id="54e32723-f996-481b-b4f6-19245ee2ceae" />
+  <Project Path="lesson20_练习题/lesson20_练习题.csproj" Id="b97152af-c2e5-4756-a010-4266291e9085" />
   <Project Path="lesson2_变量/lesson02_变量.csproj" Id="2c42086a-9287-4008-9d6e-51744d700f94" />
   <Project Path="lesson2_练习题/lesson02_练习题.csproj" Id="eef4af07-f8c8-4636-9edb-441e49b508bb" />
   <Project Path="lesson3_变量本质/lesson03_变量本质.csproj" Id="5d58a2e8-8f46-45e4-833e-5c1bb04b789c" />
